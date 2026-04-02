@@ -32,15 +32,15 @@ The dataset simulates real-world manufacturing operations:
 | Column Name       | Description        |
 | ----------------- | ------------------ |
 | Production Date   | Date of production |
-| Plant/Factory     | Manufacturing unit |
-| Product           | Product name/type  |
-| Production Output | Units produced     |
-| Target Output     | Planned production |
-| Machine ID        | Machine used       |
-| Downtime          | Machine downtime   |
-| Labor Cost        | Workforce cost     |
-| Material Cost     | Raw material cost  |
-| Overhead Cost     | Indirect costs     |
-| Total Cost        | Overall cost       |
-| Defects           | Defective units    |
+| Production ID     | Id of Production   |
+| ProductType       | Product type       |
+| Manager           | Manager Name       |
+| UnitProduced      | Number of Unit     |
+| TotalCost         | Total Cost         |
+| ProductionCost    | Cost Of Production |
+| Gender            | Gender             |
+| ProductType       | Product type       |
+| Age               | Age of Manager     |
+| Age Group         | Group of Age       |
+
 
