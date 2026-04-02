@@ -43,4 +43,7 @@ The dataset simulates real-world manufacturing operations:
 | Age               | Age of Manager     |
 | Age Group         | Group of Age       |
 
+<img width="1723" height="659" alt="Dataset" src="https://github.com/user-attachments/assets/57be79ef-123e-4208-a0c4-72a0f03216b4" />
+
+
 
