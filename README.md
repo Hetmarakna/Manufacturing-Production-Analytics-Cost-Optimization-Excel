@@ -10,3 +10,10 @@
   - Optimize cost structures to improve profit margins
   - Monitor resource utilization (labor, materials, machines)
   - Provide actionable insights through an interactive dashboard
+
+# Project Highlights
+  - End-to-end manufacturing data analysis
+  - Production efficiency & performance tracking
+  - Cost optimization and profitability insights
+  - Interactive Excel dashboard with dynamic filters
+  - Identification of bottlenecks and waste areas
