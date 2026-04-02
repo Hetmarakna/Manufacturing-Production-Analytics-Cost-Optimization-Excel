@@ -123,4 +123,34 @@ The dataset simulates real-world manufacturing operations:
   - Electronics, being lower in cost, may have:
       - More efficient production
       - Lower material or handling costs
-  
+
+  **6. Gender Distibution.**
+
+  **Question :- What proportion of the data is labeled as Unknown?**
+
+  <img width="750" height="428" alt="Gender Distribution" src="https://github.com/user-attachments/assets/335ff3d9-4a80-4251-b63d-2d32a8d3c91f" />
+
+  **Insights :-**
+
+  - 9% of the total data is categorized as “Unknown”, which is a noticeable portion of the dataset.
+  - This means nearly 1 out of every 11 records lacks gender identification.
+  - The presence of 9% unknown data indicates:
+      - Incomplete data collection
+      - Customers may be skipping optional fields
+      - Possible data entry or system limitations
+  - This reduces the accuracy of gender-based analysis and targeting.
+
+  **7. Monthly Production Trend.**
+
+  **Question :- What is the total production across all months?**
+
+  <img width="1505" height="434" alt="Monthly Production Trend" src="https://github.com/user-attachments/assets/e5c0bea5-f2e6-4dc0-97b3-954235fb9826" />
+
+  **Insights :-**
+
+  - The business produced approximately 34.5K units annually, indicating a moderate to strong production capacity.
+  - However, production is not consistent — there are noticeable fluctuations throughout the year.
+  - High production months (Feb, Mar, Nov) contribute significantly to total output.
+  - Low production months (Apr, May, Jul) reduce the overall total.
+  - Meaning: Total production is heavily influenced by peak months.
+
