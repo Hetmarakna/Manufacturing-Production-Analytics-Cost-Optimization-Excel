@@ -60,7 +60,7 @@ The dataset simulates real-world manufacturing operations:
 
   <img width="754" height="433" alt="Region-wise Performance" src="https://github.com/user-attachments/assets/6e4dd5f3-f506-4fa8-802a-170b6182f807" />
 
-  ***Insights :-**
+  **Insights :-**
 
   - The West region is clearly the strongest market, likely due to:
       - Higher demand
@@ -69,4 +69,21 @@ The dataset simulates real-world manufacturing operations:
   - The East region is underperforming, indicating:
       - Lower customer engagement
       - Possible operational or market challenges
+  
+
+  **3. Product Type Analysis**
+
+  **Question :- How much higher is Automobiles compared to Machinery?**
+
+  <img width="730" height="433" alt="Product Type Analysis" src="https://github.com/user-attachments/assets/da686525-16af-4627-a4bc-370e823b32ca" />
+
+  **Insights :-**
+
+  - Automobiles outperform Machinery by 3,728, making it the leading product type.
+  - Automobiles generate ~40% higher performance compared to Machinery.
+  - The higher performance of Automobiles suggests:
+      - Strong market demand
+      - Higher sales volume or pricing
+      - Better customer preference or product value
+  - Machinery, while performing well, is not keeping pace with Automobiles.
   
