@@ -48,10 +48,9 @@ The dataset simulates real-world manufacturing operations:
 # Project Sturcture
 
   **1. KPIs Metrics**
-  
-    - Total Units
-    - Total Production
-    - Average Cost
-    - Total Production As per productType
+  - Total Units
+  - Total Production
+  - Average Cost
+  - Total Production as product type
 
 
