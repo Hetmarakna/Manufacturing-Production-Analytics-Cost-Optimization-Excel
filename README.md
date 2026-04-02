@@ -45,6 +45,12 @@ The dataset simulates real-world manufacturing operations:
 
 <img width="1849" height="657" alt="Dataset" src="https://github.com/user-attachments/assets/6f4ecd02-6d90-4daf-9135-28b2df08d354" />
 
+# Project Sturcture
 
+  **1. KPIs Metrics
+    - Total Units
+    - Total Production
+    - Average Cost
+    - Total Production As per productType
 
 
