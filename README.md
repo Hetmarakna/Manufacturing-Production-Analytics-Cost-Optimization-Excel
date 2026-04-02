@@ -87,3 +87,21 @@ The dataset simulates real-world manufacturing operations:
       - Better customer preference or product value
   - Machinery, while performing well, is not keeping pace with Automobiles.
   
+  **4. Manager Performance Dashboard**
+
+  **Question :- Rank all managers from highest to lowest performance.**
+
+  <img width="751" height="432" alt="Manager Perfornamce Dashboard" src="https://github.com/user-attachments/assets/47756ce3-ca6c-4548-846a-b1f46e1be29f" />
+
+  **Insights :-**
+
+  - Nancy Grey is the top performer, significantly ahead of all others.
+  - There is a large gap between Rank 1 and Rank 2, indicating exceptional performance by Nancy.
+  - The middle group (Ranks 3–7) shows relatively close performance, suggesting consistent but moderate contribution.
+  - The bottom group (Ranks 8–10) are underperforming compared to others.
+  - Performance is highly concentrated at the top, with Nancy Grey being a key contributor.
+  - Managers in the mid-tier show stable but not outstanding performance.
+  - Lower-ranked managers may require:
+      - Training
+      - Better targets
+      - Performnace monitoring
