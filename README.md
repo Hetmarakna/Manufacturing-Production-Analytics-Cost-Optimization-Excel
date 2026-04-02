@@ -26,3 +26,21 @@ Manufacturing industries often face challenges like:
   - Difficulty in identifying bottlenecks
 
 This project addresses these challenges by building a **data-driven analytical** system that provides clear insights into production and cost behavior.
+
+# Dataset Description
+The dataset simulates real-world manufacturing operations:
+| Column Name       | Description        |
+| ----------------- | ------------------ |
+| Production Date   | Date of production |
+| Plant/Factory     | Manufacturing unit |
+| Product           | Product name/type  |
+| Production Output | Units produced     |
+| Target Output     | Planned production |
+| Machine ID        | Machine used       |
+| Downtime          | Machine downtime   |
+| Labor Cost        | Workforce cost     |
+| Material Cost     | Raw material cost  |
+| Overhead Cost     | Indirect costs     |
+| Total Cost        | Overall cost       |
+| Defects           | Defective units    |
+
