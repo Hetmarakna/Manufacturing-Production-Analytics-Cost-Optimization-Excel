@@ -17,3 +17,11 @@
   - Cost optimization and profitability insights
   - Interactive Excel dashboard with dynamic filters
   - Identification of bottlenecks and waste areas
+
+# Problem Statement
+Manufacturing industries often face challenges like:
+  - High production costs
+  - Inefficient resource utilization
+  - Lack of visibility into production performance
+  - Difficulty in identifying bottlenecks
+This project addresses these challenges by building a **data-driven analytical** system that provides clear insights into production and cost behavior.
