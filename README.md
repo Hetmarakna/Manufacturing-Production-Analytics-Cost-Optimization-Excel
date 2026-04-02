@@ -54,3 +54,19 @@ The dataset simulates real-world manufacturing operations:
   - Total Production as product type
 
 
+  **2. Region-wise Performance**
+
+  **Question :- What is the difference between West and East region performance?**
+
+  <img width="754" height="433" alt="Region-wise Performance" src="https://github.com/user-attachments/assets/6e4dd5f3-f506-4fa8-802a-170b6182f807" />
+
+  ***Insights :-**
+
+  - The West region is clearly the strongest market, likely due to:
+      - Higher demand
+      - Better market penetration
+      - Strong distribution or customer base
+  - The East region is underperforming, indicating:
+      - Lower customer engagement
+      - Possible operational or market challenges
+  
