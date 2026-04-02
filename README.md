@@ -24,4 +24,5 @@ Manufacturing industries often face challenges like:
   - Inefficient resource utilization
   - Lack of visibility into production performance
   - Difficulty in identifying bottlenecks
+
 This project addresses these challenges by building a **data-driven analytical** system that provides clear insights into production and cost behavior.
