@@ -47,14 +47,14 @@ The dataset simulates real-world manufacturing operations:
 
 # Project Sturcture
 
-  **1. KPIs Metrics**
+  **1. KPIs Metrics.**
   - Total Units
   - Total Production
   - Average Cost
   - Total Production as product type
 
 
-  **2. Region-wise Performance**
+  **2. Region-wise Performance.**
 
   **Question :- What is the difference between West and East region performance?**
 
@@ -71,7 +71,7 @@ The dataset simulates real-world manufacturing operations:
       - Possible operational or market challenges
   
 
-  **3. Product Type Analysis**
+  **3. Product Type Analysis.**
 
   **Question :- How much higher is Automobiles compared to Machinery?**
 
@@ -87,7 +87,7 @@ The dataset simulates real-world manufacturing operations:
       - Better customer preference or product value
   - Machinery, while performing well, is not keeping pace with Automobiles.
   
-  **4. Manager Performance Dashboard**
+  **4. Manager Performance Dashboard.**
 
   **Question :- Rank all managers from highest to lowest performance.**
 
@@ -105,3 +105,22 @@ The dataset simulates real-world manufacturing operations:
       - Training
       - Better targets
       - Performnace monitoring
+
+  **5. Cost Analysis.**
+
+  **Question :- How much higher is Automobiles cost compared to Electronics?**
+
+  <img width="731" height="429" alt="Cost Analysis" src="https://github.com/user-attachments/assets/03728288-038a-4727-8707-b9f339e2b166" />
+
+  **Insights :-**
+
+  - Automobiles cost is significantly higher (~6,400 more) than Electronics.
+  - This means Automobiles cost is almost 2X higher than Electronics.
+  - Higher cost in Automobiles may be due to:
+      - Expensive raw materials
+      - Complex manufacturing processes
+      - Higher operational or logistics costs
+  - Electronics, being lower in cost, may have:
+      - More efficient production
+      - Lower material or handling costs
+  
